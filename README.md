@@ -4,4 +4,4 @@ This is a workday scheduler that adjusts the color of the time slots based on th
 
 link:https://hare-ball.github.io/My-Workday-Scheduler/
 
-<img src="./Assets/Daily Scheduler Screenshot.png" alt="Daily Scheduler Screenshot"
+<img src="./Assets/Daily Scheduler Screenshot.png" alt="Daily Scheduler Screenshot">
